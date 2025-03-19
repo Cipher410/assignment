@@ -1,0 +1,14 @@
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\bin\Debug\net8.0\assignment4.2.exe
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\bin\Debug\net8.0\assignment4.2.deps.json
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\bin\Debug\net8.0\assignment4.2.runtimeconfig.json
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\bin\Debug\net8.0\assignment4.2.dll
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\bin\Debug\net8.0\assignment4.2.pdb
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\obj\Debug\net8.0\assignment4.2.GeneratedMSBuildEditorConfig.editorconfig
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\obj\Debug\net8.0\assignment4.2.AssemblyInfoInputs.cache
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\obj\Debug\net8.0\assignment4.2.AssemblyInfo.cs
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\obj\Debug\net8.0\assignment4.2.csproj.CoreCompileInputs.cache
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\obj\Debug\net8.0\assignment4.2.dll
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\obj\Debug\net8.0\refint\assignment4.2.dll
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\obj\Debug\net8.0\assignment4.2.pdb
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\obj\Debug\net8.0\assignment4.2.genruntimeconfig.cache
+F:\软件构造基础\assignment4\assignment4.2\assignment4.2\obj\Debug\net8.0\ref\assignment4.2.dll
