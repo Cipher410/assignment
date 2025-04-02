@@ -1,0 +1,6 @@
+F:\软件构造基础\assignment6\OrderManagementApp\OrderManagementApp\obj\Debug\net8.0-windows\OrderManagementApp.MainForm.resources
+F:\软件构造基础\assignment6\OrderManagementApp\OrderManagementApp\obj\Debug\net8.0-windows\OrderManagementApp.csproj.GenerateResource.cache
+F:\软件构造基础\assignment6\OrderManagementApp\OrderManagementApp\obj\Debug\net8.0-windows\OrderManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\软件构造基础\assignment6\OrderManagementApp\OrderManagementApp\obj\Debug\net8.0-windows\OrderManagementApp.AssemblyInfoInputs.cache
+F:\软件构造基础\assignment6\OrderManagementApp\OrderManagementApp\obj\Debug\net8.0-windows\OrderManagementApp.AssemblyInfo.cs
+F:\软件构造基础\assignment6\OrderManagementApp\OrderManagementApp\obj\Debug\net8.0-windows\OrderManagementApp.csproj.CoreCompileInputs.cache
