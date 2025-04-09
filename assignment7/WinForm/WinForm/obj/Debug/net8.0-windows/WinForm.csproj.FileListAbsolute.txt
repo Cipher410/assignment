@@ -1,0 +1,6 @@
+F:\软件构造基础\assignment7\WinForm\WinForm\obj\Debug\net8.0-windows\WinForm.Form1.resources
+F:\软件构造基础\assignment7\WinForm\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.GenerateResource.cache
+F:\软件构造基础\assignment7\WinForm\WinForm\obj\Debug\net8.0-windows\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\软件构造基础\assignment7\WinForm\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfoInputs.cache
+F:\软件构造基础\assignment7\WinForm\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfo.cs
+F:\软件构造基础\assignment7\WinForm\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.CoreCompileInputs.cache
